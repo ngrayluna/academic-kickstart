@@ -59,8 +59,9 @@ In this two-part tutorial we will establish the following machine learning workf
 <b>Download seismic data</b> → <b>Pre-process data & format it for training</b> → <b>Decide which DNN to use and create it</b> → <b>Train model</b> → <b>Analyze Results</b> 
 
 
-For the sake of making the tutorial a little more digestable, we will split the tutorial into two parts. Part I (this notebook) will focus on: framing the problem, how to download data, and pre-processing the data we have downloaded.
+For the sake of making the tutorial a little more digestable, we will split the tutorial into two parts. Part I (this post) will focus on: framing the problem, how to download data, and pre-processing the data we have downloaded.
 
+---
 
 <h2>Table of Contents</h2>
 
@@ -211,9 +212,8 @@ axes[rows - 1].set_xlabel('Time [s]')
     Text(0.5,0,'Time [s]')
 
 
+<img src ="./img/output_12_1.png">
 
-
-![png](output_12_1.png)
 
 
 In addition to the training data we will need to also provide labels to our CNN. We are interested in training a CNN to identify the first arriving seismic phase, the p-wave. We can manually identify this by looking at the waveform and searching for a time where both the frequency and amplitude of the waveform changes drastically. In our example we can see this occurring at around 30 seconds.  This is the label we will provide to our neural network.
@@ -305,9 +305,8 @@ axes.set_xlabel("Time [s]")
     Text(0.5,0,'Time [s]')
 
 
+<img srce ="./img/output_18_1.png">
 
-
-![png](output_18_1.png)
 
 
 As expected the p-arrival is pick made by the human analyst was made when there was a change in amplitude and frequency. In this case this happens at around 350 seconds.
@@ -356,7 +355,7 @@ for i in range(rows):
 ```
 
 
-![png](output_23_0.png)
+<img src = "./img/output_23_0.png">
 
 
 <h2><a name = "download">Saving the Data</a></h2>  

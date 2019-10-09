@@ -176,7 +176,7 @@ From a geophysicists point of view there is still a lot of questions that need t
 ---
 ---
 
-<h2><a name ="References"></a></h2>
+<h2><a name ="references">References</a></h2>
 
 [1] Alan Richardson and Caelen Feller. "Seismic data denoising and deblending using deep learning". (2019).
 
