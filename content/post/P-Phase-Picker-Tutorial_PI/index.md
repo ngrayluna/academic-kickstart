@@ -305,7 +305,7 @@ axes.set_xlabel("Time [s]")
     Text(0.5,0,'Time [s]')
 
 
-<img srce ="./img/output_18_1.png">
+<img src ="./img/output_18_1.png">
 
 
 
