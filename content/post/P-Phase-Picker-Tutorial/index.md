@@ -32,7 +32,7 @@ projects: []
 <img src="./img/Neurons-Network_T.jpg">
 
 
-This is the second of two Jupyter Notebooks. In Part I we will cover the first steps of the machine learning pipeline: <b>Framing the Problem</b>, <b>Retrieving the Data </b>, <b>Exploring and Understanding your Data</b>, and <b>Processing the Data for training </b>.  
+In Part I we will cover the first steps of the machine learning pipeline: <b>Framing the Problem</b>, <b>Retrieving the Data </b>, <b>Exploring and Understanding your Data</b>, and <b>Processing the Data for training </b>.  
 
 In this notebook we will go sraight into <b>compiling</b>, <b>training</b>, and <b>evaluating</b> a baseline convolutional neural network.  We'll end by going over what still needs to be done before we can consider this model ready for deployment.  
 
