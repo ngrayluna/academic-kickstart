@@ -136,7 +136,7 @@ stream = client.get_waveforms(network = network, station = station, location = l
 
 <h3>Quick Note About ObsPy's Stream Object</h3>
 
-The following is directly from [ObsPy's Documentation] page (https://docs.obspy.org/packages/obspy.core.html):
+The following is directly from [ObsPy's Documentation](https://docs.obspy.org/packages/obspy.core.html) page:
 Seismograms of various formats (e.g. SAC, MiniSEED, GSE2, SEISAN, Q, etc.) can be imported into a Stream object using the <span style="font-family:Courier; font-size:1.0em;">read()</span> function.
 
 Streams are list-like objects which contain multiple Trace objects, i.e. gap-less continuous time series and related header/meta information.
@@ -378,7 +378,7 @@ See the associated <a href ="https://github.com/ngrayluna/P_Phase_Picker">GitHub
 
 <h2><a name = "summary">Summary</a></h2>
 
-In this tutorial we formally stated the problem, broke down a complicated problem into a more manageable one, downloaded time-series data and manually picked phase information, processed the data by applying filters and demeaning it, and we ended by saving it into a compressed file format (.npz). In the next blog we will go over how to: read in saved training data labels, format the data for training, build a baseline CNN model, train said model, make first-and make first-order interpretations. 
+In this tutorial we formally stated the problem, broke down a complicated problem into a more manageable one, downloaded time-series data and manually picked phase information, processed the data by applying filters and demeaning it, and we ended by saving it into a compressed file format (.npz). In the next [blog](https://ngrayluna.github.io/post/p-phase-picker-tutorial/) we will go over how to: read in saved training data labels, format the data for training, build a baseline CNN model, train said model, make first-and make first-order interpretations. 
 
 ---
 ---

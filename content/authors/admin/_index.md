@@ -75,5 +75,9 @@ user_groups:
 - Visitors
 ---
 
-Recent M.S. Graduate with experience developing and implementing Deep Neural Networks, processing and handling time-series data, running simulations on HPC, scientific analysis, international collaborative research, and professional work-experience at renowned Seismological Laboratory and Universities. Seeking opportunities to propel data-driven research using various Machine Learning models, implement new algorithms for computer efficiency, and master software used in the scientific programming field in a collaborative environment.
-Currently looking into opportunities in Software Engineering. Open to new opportunities and collaborations!
+Recent M.S. Graduate from Top-tier University with experience developing and implementing Deep Neural
+Networks, processing and handling time-series data, developing algorithms, high performance computing,
+scientific analysis, international collaborative research, and professional work-experience at a renowned
+Seismological Laboratory. Seeking opportunities to propel data-driven research using various Machine
+Learning models, implement new algorithms for computer efficiency, and master software used for industry in a
+collaborative environment.
