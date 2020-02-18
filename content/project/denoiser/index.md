@@ -41,7 +41,7 @@ slides: ""
 ---
 
 
-<a name ="Intro">From imaging Earth’s interior to earthquake detection to oil discovery, seismic waves provide us with a unique approach to study our Earth.</a>
+<a name ="Intro">From earthquake detection to oil discovery, seismic waves allow us to investigate Earth processes and its interior in ways no other data type can.</a>
 
 To record these waves we use seismometers. Seismometers are highly sensitive instruments that typically measure translational ground motions. These instruments are sensitive enough to measure large, distant earthquakes from across the globe. For example, a seismometer in California can detect a magnitude 7.0 or above earthquake in Chile, Japan and/or even  Turkey!
 
